@@ -32,5 +32,3 @@ This project is purely front-end, without any JavaScript or server-side componen
 ![Alt text](https://github.com/AkshitMunjal/TinDog---A-Responsive-Webpage-for-Dog-Lovers/blob/4e727fb99609af751bd9eaaa5cdeb4a4d9dd218e/image_1.png)
 
 
-
-
